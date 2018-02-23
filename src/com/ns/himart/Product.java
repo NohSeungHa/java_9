@@ -4,6 +4,7 @@ public class Product {
 	private int price;
 	private int point;
 	
+	
 	public int getPrice() {
 		return price;
 	}
